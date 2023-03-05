@@ -1,0 +1,520 @@
+[INFO ] 2023-02-21 15:17:02.593 [main] SeleniumFramework - URL opened
+[INFO ] 2023-02-21 15:17:07.817 [main] SeleniumFramework - enterUsername
+[INFO ] 2023-02-21 15:17:12.981 [main] SeleniumFramework - enterPassword
+[INFO ] 2023-02-21 15:17:18.203 [main] SeleniumFramework - clickOnLoginBtn
+[INFO ] 2023-02-21 15:17:18.203 [main] SeleniumFramework - browser closed
+[INFO ] 2023-02-21 20:43:47.903 [main] SeleniumFramework - URL opened
+[INFO ] 2023-02-21 20:43:53.223 [main] SeleniumFramework - enterUsername
+[INFO ] 2023-02-21 20:43:58.418 [main] SeleniumFramework - enterPassword
+[INFO ] 2023-02-21 20:44:03.664 [main] SeleniumFramework - clickOnLoginBtn
+[INFO ] 2023-02-21 20:44:03.665 [main] SeleniumFramework - browser closed
+[INFO ] 2023-02-21 22:15:21.494 [main] SeleniumFramework - URL opened
+[INFO ] 2023-02-21 22:15:26.725 [main] SeleniumFramework - enterUsername
+[INFO ] 2023-02-21 22:15:31.883 [main] SeleniumFramework - enterPassword
+[INFO ] 2023-02-21 22:15:37.185 [main] SeleniumFramework - clickOnLoginBtn
+[INFO ] 2023-02-21 22:15:37.185 [main] SeleniumFramework - browser closed
+[INFO ] 2023-02-21 22:16:55.483 [main] SeleniumFramework - URL opened
+[INFO ] 2023-02-21 22:17:00.702 [main] SeleniumFramework - enterUsername
+[INFO ] 2023-02-21 22:17:05.854 [main] SeleniumFramework - enterPassword
+[INFO ] 2023-02-21 22:17:11.131 [main] SeleniumFramework - clickOnLoginBtn
+[INFO ] 2023-02-21 22:17:11.132 [main] SeleniumFramework - browser closed
+[INFO ] 2023-02-21 22:20:35.179 [main] SeleniumFramework - URL opened
+[INFO ] 2023-02-21 22:20:40.388 [main] SeleniumFramework - enterUsername
+[INFO ] 2023-02-21 22:20:45.551 [main] SeleniumFramework - enterPassword
+[INFO ] 2023-02-21 22:20:50.817 [main] SeleniumFramework - clickOnLoginBtn
+[INFO ] 2023-02-21 22:20:50.818 [main] SeleniumFramework - browser closed
+[INFO ] 2023-02-21 22:36:06.685 [main] SeleniumFramework - URL opened
+[INFO ] 2023-02-21 22:36:08.895 [main] SeleniumFramework - enterUsername
+[INFO ] 2023-02-21 22:36:11.070 [main] SeleniumFramework - enterPassword
+[INFO ] 2023-02-21 22:36:12.300 [main] SeleniumFramework - clickOnLoginBtn
+[INFO ] 2023-02-21 22:36:12.300 [main] SeleniumFramework - browser closed
+[INFO ] 2023-02-21 22:47:47.868 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-21 22:47:50.076 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-21 22:47:52.292 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-21 22:47:53.517 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-21 22:47:53.529 [main] SeleniumFramework - VerifyLogin - Failed
+[INFO ] 2023-02-21 22:56:45.463 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-21 22:56:47.673 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-21 22:56:49.907 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-21 22:56:51.144 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-21 22:56:51.159 [main] SeleniumFramework - VerifyLogin - Failed
+[INFO ] 2023-02-21 23:02:16.850 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-21 23:02:19.078 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-21 23:02:21.291 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-21 23:02:22.510 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-21 23:02:22.522 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-21 23:02:22.747 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-21 23:02:22.747 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-21 23:12:11.764 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-21 23:12:14.002 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-21 23:12:16.178 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-21 23:12:17.426 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-21 23:12:17.443 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-21 23:12:19.894 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-21 23:12:19.894 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-22 16:55:36.841 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-22 16:55:39.552 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-22 16:55:41.775 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-22 16:55:43.439 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-22 16:55:43.487 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-22 16:55:45.752 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-22 16:55:45.752 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-22 17:33:51.600 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-22 17:33:53.773 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-22 17:33:55.913 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-22 17:33:57.194 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-22 17:33:57.209 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-22 17:33:59.396 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-22 17:33:59.594 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-22 17:33:59.594 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-22 17:35:31.920 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-22 17:35:34.089 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-22 17:35:36.251 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-22 17:35:37.536 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-22 17:35:37.544 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-22 17:35:39.742 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-22 17:35:39.971 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-22 17:35:41.973 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-22 22:08:53.572 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-22 22:08:55.941 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-22 22:08:58.175 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-22 22:08:59.600 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-22 22:08:59.638 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-22 22:09:01.937 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-22 22:09:02.169 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-22 22:09:06.935 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-22 22:29:32.917 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-22 22:29:35.136 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-22 22:29:37.266 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-22 22:29:38.530 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-22 22:29:38.542 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-22 22:29:40.785 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-22 22:29:40.988 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-22 22:29:43.640 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-22 22:29:45.732 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-22 22:31:03.561 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-22 22:31:05.810 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-22 22:31:08.016 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-22 22:31:09.215 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-22 22:31:09.225 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-22 22:31:11.415 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-22 22:31:11.619 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-22 22:31:14.189 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-22 22:31:19.272 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-22 22:50:38.469 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-22 22:50:40.696 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-22 22:50:42.901 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-22 22:50:44.138 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-22 22:50:44.149 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-22 22:50:46.327 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-22 22:50:46.518 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-22 22:50:49.085 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-22 22:50:56.281 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-22 22:54:31.859 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-22 22:54:34.046 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-22 22:54:36.197 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-22 22:54:37.433 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-22 22:54:37.443 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-22 22:54:39.634 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-22 22:54:39.835 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-22 22:54:42.372 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-22 22:54:49.580 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-22 23:03:02.564 [main] SeleniumFramework - URL opened
+[INFO ] 2023-02-22 23:03:04.741 [main] SeleniumFramework - enterUsername
+[INFO ] 2023-02-22 23:03:06.900 [main] SeleniumFramework - enterPassword
+[INFO ] 2023-02-22 23:03:08.134 [main] SeleniumFramework - clickOnLoginBtn
+[INFO ] 2023-02-22 23:03:08.134 [main] SeleniumFramework - browser closed
+[INFO ] 2023-02-22 23:03:08.143 [main] SeleniumFramework - VerifyLogin - Failed
+[INFO ] 2023-02-22 23:06:29.653 [main] SeleniumFramework - URL opened
+[INFO ] 2023-02-22 23:06:31.839 [main] SeleniumFramework - enterUsername
+[INFO ] 2023-02-22 23:06:33.975 [main] SeleniumFramework - enterPassword
+[INFO ] 2023-02-22 23:06:35.232 [main] SeleniumFramework - clickOnLoginBtn
+[INFO ] 2023-02-22 23:06:35.232 [main] SeleniumFramework - browser closed
+[INFO ] 2023-02-22 23:06:35.241 [main] SeleniumFramework - VerifyLogin - Failed
+[INFO ] 2023-02-23 22:00:01.274 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-23 22:00:03.638 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-23 22:00:05.800 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-23 22:00:07.025 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-23 22:00:07.040 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-23 22:00:09.308 [main] SeleniumFramework - VerifyProductF - Failed
+[INFO ] 2023-02-24 16:30:08.934 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-24 16:30:11.140 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-24 16:30:13.292 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-24 16:30:14.549 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-24 16:30:14.581 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-24 16:30:16.830 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-24 16:30:17.020 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 16:30:19.595 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 16:30:26.763 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-24 16:58:41.512 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-24 16:58:43.691 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-24 16:58:45.926 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-24 16:58:47.188 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-24 16:58:47.199 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-24 16:58:49.398 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-24 16:58:49.606 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 16:58:52.312 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 16:59:20.081 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-24 16:59:22.257 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-24 16:59:24.619 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-24 16:59:25.890 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-24 16:59:25.901 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-24 16:59:28.087 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-24 16:59:28.277 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 16:59:30.884 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 16:59:38.094 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-24 22:19:22.762 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-24 22:19:25.235 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-24 22:19:27.443 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-24 22:19:28.702 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-24 22:19:28.733 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-24 22:19:31.010 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-24 22:19:31.204 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 22:19:33.988 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 22:19:41.202 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-24 22:45:46.015 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-24 22:45:48.192 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-24 22:45:50.343 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-24 22:45:51.559 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-24 22:45:51.569 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-24 22:45:53.793 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-24 22:45:54.010 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 22:45:56.572 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 22:46:03.740 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-24 22:56:10.477 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-24 22:56:12.695 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-24 22:56:14.840 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-24 22:56:16.025 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-24 22:56:16.052 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-24 22:56:18.405 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-24 22:56:18.640 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 22:56:21.198 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 22:56:28.388 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-24 23:02:09.487 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-24 23:02:11.666 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-24 23:02:13.814 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-24 23:02:15.010 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-24 23:02:15.020 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-24 23:02:17.274 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-24 23:02:17.475 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 23:02:19.998 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 23:02:27.148 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-24 23:44:05.241 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-24 23:44:07.441 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-24 23:44:09.692 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-24 23:44:10.956 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-24 23:44:10.971 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-24 23:44:13.203 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-24 23:44:13.387 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 23:44:15.942 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-24 23:44:23.140 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-25 13:55:28.464 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 13:55:31.153 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-25 13:55:33.332 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-25 13:55:34.898 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-25 13:55:34.929 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-25 13:55:37.322 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-25 13:55:37.614 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 13:55:40.617 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 13:55:47.931 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-25 14:10:03.220 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 14:10:27.149 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 14:10:29.356 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-25 14:10:31.530 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-25 14:10:32.755 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-25 14:10:32.766 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-25 14:10:35.032 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-25 14:10:35.322 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:10:38.012 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:10:45.278 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-25 14:13:30.745 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 14:13:32.953 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-25 14:13:35.169 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-25 14:13:36.426 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-25 14:13:36.439 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-25 14:13:38.700 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-25 14:13:38.975 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:13:41.643 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:13:48.871 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-25 14:14:35.034 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 14:14:37.253 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-25 14:14:39.476 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-25 14:14:40.728 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-25 14:14:40.905 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-25 14:14:43.223 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-25 14:14:43.446 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:14:46.020 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:14:53.213 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-25 14:21:17.636 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 14:21:19.834 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-25 14:21:22.151 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-25 14:21:23.414 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-25 14:21:23.424 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-25 14:21:25.712 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-25 14:21:25.926 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:21:28.511 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:21:35.700 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-25 14:31:51.476 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 14:31:53.712 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-25 14:31:55.976 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-25 14:31:57.262 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-25 14:31:57.273 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-25 14:31:59.479 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-25 14:31:59.717 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:32:02.331 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:32:09.573 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-25 14:32:58.114 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 14:33:00.318 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-25 14:33:02.514 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-25 14:33:03.790 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-25 14:33:03.800 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-25 14:33:06.040 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-25 14:33:06.263 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:33:08.848 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:33:16.004 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-25 14:33:51.595 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 14:33:53.879 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-25 14:33:56.151 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-25 14:33:57.456 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-25 14:33:57.466 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-25 14:33:59.674 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-25 14:33:59.905 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:34:02.687 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:34:09.870 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-25 14:53:47.846 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 14:53:50.036 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-25 14:53:52.236 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-25 14:53:53.600 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-25 14:53:53.611 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-25 14:53:55.842 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-25 14:53:56.059 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:53:58.645 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 14:54:05.844 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-25 22:12:20.319 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 22:12:22.568 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-25 22:12:24.698 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-25 22:12:25.911 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-25 22:12:25.920 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-25 22:12:28.141 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-25 22:12:28.359 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 22:12:30.897 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 22:12:38.063 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-25 23:08:17.855 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 23:08:20.041 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-25 23:08:22.385 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-25 23:08:23.654 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-25 23:08:23.667 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-25 23:08:25.876 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-25 23:08:26.068 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 23:08:28.611 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 23:08:35.791 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-25 23:12:00.293 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 23:12:02.486 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-25 23:12:04.769 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-25 23:12:06.072 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-25 23:12:06.082 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-25 23:12:08.279 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-25 23:12:08.465 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 23:12:11.072 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 23:12:18.238 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-25 23:13:24.374 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-25 23:13:26.604 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-25 23:13:28.866 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-25 23:13:30.103 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-25 23:13:30.112 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-25 23:13:32.333 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-25 23:13:32.544 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 23:13:35.060 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-25 23:13:42.304 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-02-26 21:14:51.537 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-02-26 21:14:54.015 [main] SeleniumFramework - Username entered
+[INFO ] 2023-02-26 21:14:56.341 [main] SeleniumFramework - Password entered
+[INFO ] 2023-02-26 21:14:59.421 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-02-26 21:14:59.445 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-02-26 21:15:01.901 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-02-26 21:15:02.638 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-26 21:15:05.473 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-02-26 21:15:12.792 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-01 22:51:27.197 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-01 22:51:29.478 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-01 22:51:31.625 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-01 22:51:32.905 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-01 22:51:32.918 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-01 22:51:35.183 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-01 22:51:35.429 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-01 22:51:38.075 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-01 22:54:19.935 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-01 22:54:22.184 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-01 22:54:24.389 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-01 22:54:25.715 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-01 22:54:25.723 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-01 22:54:27.915 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-01 22:54:28.163 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-01 22:54:30.891 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-01 23:30:47.840 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-01 23:30:50.109 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-01 23:30:52.290 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-01 23:30:53.504 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-01 23:30:53.513 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-01 23:30:55.718 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-01 23:30:55.905 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-01 23:30:58.393 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-01 23:56:20.653 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-01 23:56:22.842 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-01 23:56:24.992 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-01 23:56:26.229 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-01 23:56:26.238 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-01 23:56:28.412 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-01 23:56:28.605 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-01 23:56:31.157 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 14:07:56.899 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-02 14:08:01.038 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-02 14:08:03.235 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-02 14:08:05.068 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-02 14:08:05.091 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-02 14:08:07.507 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-02 14:08:07.718 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 14:08:10.926 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 14:08:40.450 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-02 14:08:42.731 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-02 14:08:44.895 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-02 14:08:46.146 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-02 14:08:46.177 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-02 14:08:48.455 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-02 14:08:48.695 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 14:08:51.303 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 14:17:21.164 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-02 14:17:23.448 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-02 14:17:25.661 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-02 14:17:26.974 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-02 14:17:26.984 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-02 14:17:29.191 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-02 14:17:29.382 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 14:17:32.033 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 14:17:39.209 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-02 14:24:18.585 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-02 14:24:20.820 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-02 14:24:22.977 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-02 14:24:24.298 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-02 14:24:24.328 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-02 14:24:26.736 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-02 14:24:26.992 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 14:24:29.592 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 14:24:36.760 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-02 16:18:01.587 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-02 16:18:04.428 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-02 16:18:06.583 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-02 16:18:08.374 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-02 16:18:08.413 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-02 16:18:10.708 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-02 16:18:10.893 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 16:18:13.405 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 16:18:20.727 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-02 16:18:46.488 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-02 16:18:48.665 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-02 16:18:50.859 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-02 16:18:52.079 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-02 16:18:52.096 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-02 16:18:54.362 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-02 16:18:54.562 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 16:18:57.146 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 16:19:04.294 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-02 16:23:04.619 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-02 16:23:07.284 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-02 16:23:09.453 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-02 16:23:10.668 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-02 16:23:10.677 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-02 16:23:13.042 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-02 16:23:13.217 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 16:23:15.760 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 16:23:22.957 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-02 16:36:23.694 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-02 16:36:26.041 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-02 16:36:28.191 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-02 16:36:29.397 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-02 16:36:29.429 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-02 16:36:31.775 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-02 16:36:32.023 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 16:36:34.500 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 16:36:41.682 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-02 22:12:47.455 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-02 22:12:49.702 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-02 22:12:51.888 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-02 22:12:53.216 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-02 22:12:53.224 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-02 22:12:55.538 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-02 22:12:55.738 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 22:12:58.236 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 22:13:05.429 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-02 22:13:43.640 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-02 22:13:45.832 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-02 22:13:48.155 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-02 22:13:49.368 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-02 22:13:49.376 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-02 22:13:51.556 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-02 22:13:51.750 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 22:13:54.294 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 22:14:01.447 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-02 22:16:46.821 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-02 22:16:48.998 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-02 22:16:51.263 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-02 22:16:52.534 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-02 22:16:52.542 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-02 22:16:54.716 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-02 22:16:54.901 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 22:16:57.396 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 22:17:04.600 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-02 22:26:56.304 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-02 22:26:58.504 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-02 22:27:00.679 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-02 22:27:01.890 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-02 22:27:01.899 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-02 22:27:04.080 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-02 22:27:04.281 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 22:27:06.780 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-02 22:27:13.989 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-03 22:23:28.068 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-03 22:23:30.759 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-03 22:23:32.987 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-03 22:23:34.536 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-03 22:23:34.557 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-03 22:23:36.868 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-03 22:23:37.088 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-03 22:23:39.690 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-03 22:23:47.003 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-03 22:24:25.004 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-03 22:24:27.199 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-03 22:24:29.449 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-03 22:24:30.668 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-03 22:24:30.678 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-03 22:24:32.905 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-03 22:24:33.117 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-03 22:24:35.767 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-03 22:24:42.991 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-03 22:28:37.354 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-03 22:28:39.564 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-03 22:28:41.792 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-03 22:28:43.009 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-03 22:28:43.019 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-03 22:28:45.251 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-03 22:28:45.554 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-03 22:28:48.265 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-03 22:28:55.480 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-03 22:31:22.865 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-03 22:31:25.053 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-03 22:31:27.302 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-03 22:31:28.528 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-03 22:31:28.536 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-03 22:31:30.729 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-03 22:31:30.944 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-03 22:31:33.474 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-03 22:31:40.680 [main] SeleniumFramework - Browser Closed.
+[INFO ] 2023-03-03 22:45:30.027 [main] SeleniumFramework - URL Opened
+[INFO ] 2023-03-03 22:45:32.290 [main] SeleniumFramework - Username entered
+[INFO ] 2023-03-03 22:45:34.482 [main] SeleniumFramework - Password entered
+[INFO ] 2023-03-03 22:45:35.748 [main] SeleniumFramework - Clicked on Login button.
+[INFO ] 2023-03-03 22:45:35.773 [main] SeleniumFramework - VerifyLogin - Passed
+[INFO ] 2023-03-03 22:45:38.010 [main] SeleniumFramework - VerifyProductP- Passed
+[INFO ] 2023-03-03 22:45:38.234 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-03 22:45:40.943 [main] SeleniumFramework - VerifycartProductP- Passed
+[INFO ] 2023-03-03 22:45:48.191 [main] SeleniumFramework - Browser Closed.

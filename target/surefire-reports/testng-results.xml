@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-05T10:51:01 IST" name="Suite" finished-at="2023-03-05T10:52:02 IST" duration-ms="61053">
+    <groups>
+    </groups>
+    <test started-at="2023-03-05T10:51:01 IST" name="Sauce Test Execution" finished-at="2023-03-05T10:52:02 IST" duration-ms="61053">
+      <class name="com.sauce.testCases.SauceCompletePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauce.testCases.SauceCompletePageTest@1725dc0f]" started-at="2023-03-05T10:51:01 IST" name="setUp" finished-at="2023-03-05T10:51:38 IST" duration-ms="36456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:0, instance:com.sauce.testCases.SauceCompletePageTest@1725dc0f]" started-at="2023-03-05T10:51:38 IST" name="login" finished-at="2023-03-05T10:52:00 IST" duration-ms="22423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauce.testCases.SauceCompletePageTest@1725dc0f]" started-at="2023-03-05T10:52:00 IST" name="tearDown" finished-at="2023-03-05T10:52:02 IST" duration-ms="1309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauce.testCases.SauceCompletePageTest -->
+    </test> <!-- Sauce Test Execution -->
+  </suite> <!-- Suite -->
+</testng-results>
